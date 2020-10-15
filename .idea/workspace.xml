@@ -12,7 +12,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602784495319</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New">
+      <created>1602795102494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602795102494</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,10 +227,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="251" y="168" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1602766829698" />
-    <state x="133" y="0" key="CommitChangelistDialog2" timestamp="1602784493765">
+    <state x="133" y="0" key="CommitChangelistDialog2" timestamp="1602795100972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="133" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602784493765" />
+    <state x="133" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602795100972" />
     <state width="1060" height="269" key="GridCell.Tab.0.bottom" timestamp="1602784458368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -241,9 +251,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602766296622" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602784498616">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602795104589">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602784498616" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602795104589" />
   </component>
 </project>
